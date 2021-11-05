@@ -2,7 +2,7 @@
 /*
 
 #Except the Assets and ProjectSettings folder, as well as the selected Git files.
-.unitypackage
+!.unitypackage
 !Assets/
 !ProjectSettings/
 !.gitignore
